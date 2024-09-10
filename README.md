@@ -2,6 +2,6 @@
 
 ### Welcome to Easy Python code learning project-1.
 
-![Simple function calculator]
+![Simple Calculator](images/Simple_Calci.png)
 
 
